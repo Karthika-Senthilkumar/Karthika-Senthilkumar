@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **any projects which interests me** 
 - 💬 Ask me about **Java, C, HTML, CSS, JavaScript and MySQL**
 - 📫 How to reach me: **karthikasenthil218@gmail.com**
-- ⚡ Fun fact about me: ** **
+- ⚡ Fun fact: ****
 
 
 <br>
