@@ -1,6 +1,6 @@
 <h1 align="center">Hey there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai">, I'm Karthika&nbsp;<img height="32px" width="32px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"></h1><br>
 <h3 align="center">A spirited developer who enjoys coding and exploring new technologies</h3><br><br>
-<p><img align="right" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="Karthika" width="40%"/></p>
+<p><img align="right" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="Karthika" width="39%"/></p>
 
 
 - 🔭 I’m currently working as **an intern at [Calibraint Technologies](https://github.com/calibraint)**
@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **any projects which interests me**
 - 💬 Ask me about **Java, C, HTML, CSS, JavaScript and MySQL**
 - 📫 How to reach me: **karthikasenthil218@gmail.com**
-- ⚡ Fun fact about me: **I'm an OWL but my friends call me KAKA**
+- ⚡ Fun fact about me: ** **
 
 <br>
 
