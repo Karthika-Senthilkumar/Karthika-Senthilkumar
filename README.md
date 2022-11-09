@@ -1,5 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/98414000/200909671-c5bfcfda-410c-4ac9-813c-204a9e8dc167.jpg)
-<h1 align="center">Hey there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai">, I'm Karthika&nbsp;<img height="32px" width="32px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"></h1><br>
+# <h1 align="center">Hey there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai">, I'm Karthika&nbsp;<img height="32px" width="32px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"></h1><br>
 <h3 align="center">A spirited developer who enjoys coding and exploring new technologies</h3><br><br>
 
 
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **any projects which interests me** 
 - 💬 Ask me about **Java, C, HTML, CSS, JavaScript and MySQL**
 - 📫 How to reach me: **karthikasenthil218@gmail.com**
-- ⚡ Fun fact: ****
+- ⚡ Unpopular fact: **SandBox is not for testing, but for making**
 
 
 <br>
@@ -67,8 +67,6 @@
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthika-senthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="karthika-senthilkumar" /> </p>
-
-
 
 
 Last edited on: 09/11/2022
