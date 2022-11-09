@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working as **an intern at [Calibraint Technologies](https://github.com/calibraint)** <p><img align="right" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="Karthika" width="39%"/></p>
+- 🔭 I’m currently working as **an intern at [Calibraint Technologies](https://github.com/calibraint)** <img align="right" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="Karthika" width="39%"/>
 - 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **any projects which interests me** 
 - 💬 Ask me about **Java, C, HTML, CSS, JavaScript and MySQL**
