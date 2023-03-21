@@ -54,7 +54,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Karthika-Senthilkumar)](https://github.com/Karthika-Senthilkumar/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Karthika-Senthilkumar&theme=algolia)](https://github.com/Karthika-Senthilkumar/github-profile-trophy) 
 
 <br>
 
