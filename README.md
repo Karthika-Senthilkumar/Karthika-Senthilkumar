@@ -62,7 +62,7 @@
 
 <br>
 
-[![Karthika-Senthilkumar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Karthika-Senthilkumar&bg_color=050f2c&color=ffffff&line=0074bd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Karthika-Senthilkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthika-Senthilkumar&bg_color=050f2c&color=ffffff&line=0074bd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthika-senthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="karthika-senthilkumar" /> </p>
